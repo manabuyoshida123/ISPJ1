@@ -1,6 +1,8 @@
 {
-"name": "Infinia Stake Pool Japan",
-"description":" カルダノネットワークに貢献するプライベートプールです ", 
-"ticker": "ISPJ",
-"homepage": "https://infiniastakepool.com/"
+    "name": "Infinia Stake Pool Japan",
+    "description": "カルダノネットワークに貢献するプライベートプールです",
+    "ticker": "ISPJ",
+    "homepage": "https://infiniastakepool.com/",
+    "extended": "",
+    "nonce":"1704618854"
 }
